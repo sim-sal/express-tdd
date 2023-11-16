@@ -1,0 +1,23 @@
+{
+  "name": "express-tdd",
+  "version": "1.0.0",
+  "description": "TDD & Unit Tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sim-sal/express-tdd.git"
+  },
+  "author": "Simone Saladino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sim-sal/express-tdd/issues"
+  },
+  "homepage": "https://github.com/sim-sal/express-tdd#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
